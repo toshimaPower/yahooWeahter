@@ -1,0 +1,510 @@
+Tyahoo
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Info.plist yahoo/yahoo-Info.plist
+cProcessPCH /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-dkcphjovsnhfdrclrdwsrkozkcjw/yahoo-Prefix.pch.pth yahoo/yahoo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-awcugziwggxvfbhjkglchhomnikr/yahoo-Prefix.pch.pth yahoo/yahoo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML+Compression.o /Users/psunggi4man/Documents/isoTEST/yahoo/TBXML+Compression.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML+HTTP.o /Users/psunggi4man/Documents/isoTEST/yahoo/TBXML+HTTP.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/main.o /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/AppDelegate.o /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/ViewController.o /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML.o /Users/psunggi4man/Documents/isoTEST/yahoo/TBXML.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/Reachability-14BD57DB9D1F3336.o /Users/psunggi4man/Documents/isoTEST/yahoo/Reachability.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/mySQLite.o /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/mySQLite.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/yahoo normal i386
+cGenerateDSYMFile /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app.dSYM /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/yahoo
+cCopyStringsFile /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/en.lproj/InfoPlist.strings yahoo/en.lproj/InfoPlist.strings
+cCpResource yahoo/Default.png DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Default.png
+cCpResource yahoo/Default@2x.png DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Default@2x.png
+cCpResource yahoo/Default-568h@2x.png DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Default-568h@2x.png
+cCompileXIB /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/en.lproj/ViewController.xib
+cCpResource yahoo/db.sqlite DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/db.sqlite
+cTouch /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000509747EE0000000000000110
+t1352091630
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000508D3D9E0000000000228FD0
+t1351433630
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000508D3D9D000000000009C220
+t1351433629
+s639520
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000508D3DA100000000003DCEF0
+t1351433633
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000508D3DA100000000000015F7
+t1351433633
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000508D3DA7000000000006CC50
+t1351433639
+s445520
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000508D3DA70000000000000E8D
+t1351433639
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000508D3DA90000000000AB3D60
+t1351433641
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c00000000508D3DB60000000000001B54
+t1351433654
+s6996
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/lib/libsqlite3.dylib
+c00000000508D3DB800000000000D1F20
+t1351433656
+s859936
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/lib/libz.dylib
+c00000000508D3DB80000000000013500
+t1351433656
+s79104
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-awcugziwggxvfbhjkglchhomnikr/yahoo-Prefix.pch.pth
+t2
+s0
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-dkcphjovsnhfdrclrdwsrkozkcjw/yahoo-Prefix.pch.pth
+t2
+s0
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/Reachability-14BD57DB9D1F3336.o
+t2
+s0
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML+Compression.o
+t2
+s0
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML+HTTP.o
+t2
+s0
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML.o
+t2
+s0
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/mySQLite.o
+t2
+s0
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/yahoo.LinkFileList
+c0000000050D35A830000000000000512
+t1356028547
+s1298
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app
+t2
+s0
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app.dSYM
+t2
+s0
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Default.png
+t2
+s0
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Default@2x.png
+t2
+s0
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Info.plist
+t2
+s0
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/PkgInfo
+t2
+s0
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/db.sqlite
+t2
+s0
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/en.lproj/ViewController.nib
+t2
+s0
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/yahoo
+t2
+s0
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/Reachability.m
+c0000000050D2D228000000000000239B
+t1355993640
+s9115
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/TBXML+Compression.m
+c000000004FA758B600000000000025EE
+t1336367286
+s9710
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/TBXML+HTTP.m
+c000000004FA758B60000000000000CED
+t1336367286
+s3309
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/TBXML.m
+c0000000050D298C30000000000007C59
+t1355978947
+s31833
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/AppDelegate.m
+c0000000050D27B8800000000000008FB
+t1355971464
+s2299
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/Default-568h@2x.png
+c000000005062328600000000000048A2
+t1348612742
+s18594
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/Default.png
+c0000000050623286000000000000198C
+t1348612742
+s6540
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/Default@2x.png
+c00000000506232860000000000003EEB
+t1348612742
+s16107
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/ViewController.m
+c0000000050D356160000000000003E09
+t1356027414
+s15881
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/db.sqlite
+c0000000050D34BF20000000000003000
+t1356024818
+s12288
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/en.lproj/InfoPlist.strings
+c0000000050D27B88000000000000002D
+t1355971464
+s45
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/en.lproj/ViewController.xib
+c0000000050D35A800000000000002FBE
+t1356028544
+s12222
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/main.m
+c0000000050D27B88000000000000014C
+t1355971464
+s332
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/mySQLite.m
+c0000000050D3502900000000000006A4
+t1356025897
+s1700
+
+N/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/yahoo-Prefix.pch
+c0000000050D27D7D0000000000000151
+t1355971965
+s337
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+Nyahoo/yahoo-Info.plist
+c0000000050D27B880000000000000492
+t1355971464
+s1170
+
+CBuild AST from /Users/psunggi4man/Documents/isoTEST/yahoo/Reachability.m
+r0
+
+CBuild AST from /Users/psunggi4man/Documents/isoTEST/yahoo/TBXML+Compression.m
+r0
+
+CBuild AST from /Users/psunggi4man/Documents/isoTEST/yahoo/TBXML+HTTP.m
+r0
+
+CBuild AST from /Users/psunggi4man/Documents/isoTEST/yahoo/TBXML.m
+r0
+
+CBuild AST from /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/AppDelegate.m
+r0
+
+CBuild AST from /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/ViewController.m
+r0
+
+CBuild AST from /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/main.m
+r0
+
+CBuild AST from /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/mySQLite.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies40beb4019283b641^a93270039283b641^-110"warning: no rule to process file '$(PROJECT_DIR)/Reachability.h' of type sourcecode.c.h for architecture i3861(21%IDEActivityLogMessage2@109"Warning: no rule to process file '$(PROJECT_DIR)/Reachability.h' of type sourcecode.c.h for architecture i386-377721346#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#0#--18"Check dependencies36"A0A81432-A999-4C15-8CE8-1043BFDBE6D4-
+
+CCompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/AppDelegate.o /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377721350.146007
+e377721350.798158
+r1
+xCompileC
+xDerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/AppDelegate.o
+x/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/AppDelegate.ma38f25069283b641^4b5bcc069283b641^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/AppDelegate.m0000000000000000^3897"CompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/AppDelegate.o yahoo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/psunggi4man/Documents/isoTEST/yahoo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-generated-files.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-own-target-headers.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-all-target-headers.hmap -iquote /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-project-headers.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/DerivedSources/i386 -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/DerivedSources -F/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator -include /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-dkcphjovsnhfdrclrdwsrkozkcjw/yahoo-Prefix.pch -MMD -MT dependencies -MF /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/AppDelegate.dia -c /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/AppDelegate.m -o /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/AppDelegate.o36"C985C51E-86B7-466A-95FD-B7CF067DB161-
+
+CCompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/Reachability-14BD57DB9D1F3336.o /Users/psunggi4man/Documents/isoTEST/yahoo/Reachability.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377721350.794356
+e377721351.026486
+r1
+xCompileC
+xDerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/Reachability-14BD57DB9D1F3336.o
+x/Users/psunggi4man/Documents/isoTEST/yahoo/Reachability.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/psunggi4man/Documents/isoTEST/yahoo/Reachability.m7f86cb069283b641^b9c706079283b641^---0#0#0#-19%DVTDocumentLocation2@73"file://localhost/Users/psunggi4man/Documents/isoTEST/yahoo/Reachability.m0000000000000000^3973"CompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/Reachability-14BD57DB9D1F3336.o Reachability.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/psunggi4man/Documents/isoTEST/yahoo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-generated-files.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-own-target-headers.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-all-target-headers.hmap -iquote /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-project-headers.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/DerivedSources/i386 -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/DerivedSources -F/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator -fno-objc-arc -include /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-awcugziwggxvfbhjkglchhomnikr/yahoo-Prefix.pch -MMD -MT dependencies -MF /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/Reachability-14BD57DB9D1F3336.d --serialize-diagnostics /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/Reachability-14BD57DB9D1F3336.dia -c /Users/psunggi4man/Documents/isoTEST/yahoo/Reachability.m -o /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/Reachability-14BD57DB9D1F3336.o36"1669DFC9-3C14-437E-9870-A1F9D9EEA482-
+
+CCompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML+Compression.o /Users/psunggi4man/Documents/isoTEST/yahoo/TBXML+Compression.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377721349.789221
+e377721350.792852
+r1
+xCompileC
+xDerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML+Compression.o
+x/Users/psunggi4man/Documents/isoTEST/yahoo/TBXML+Compression.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/psunggi4man/Documents/isoTEST/yahoo/TBXML+Compression.mb535ca059283b641^800ecb069283b641^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/psunggi4man/Documents/isoTEST/yahoo/TBXML+Compression.m0000000000000000^3921"CompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML+Compression.o TBXML+Compression.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/psunggi4man/Documents/isoTEST/yahoo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-generated-files.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-own-target-headers.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-all-target-headers.hmap -iquote /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-project-headers.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/DerivedSources/i386 -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/DerivedSources -F/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator -include /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-dkcphjovsnhfdrclrdwsrkozkcjw/yahoo-Prefix.pch -MMD -MT dependencies -MF /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML+Compression.d --serialize-diagnostics /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML+Compression.dia -c /Users/psunggi4man/Documents/isoTEST/yahoo/TBXML+Compression.m -o /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML+Compression.o36"932F9599-2A6C-40D6-B8C4-FD0256703E97-
+
+CCompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML+HTTP.o /Users/psunggi4man/Documents/isoTEST/yahoo/TBXML+HTTP.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377721349.789240
+e377721350.793826
+r1
+xCompileC
+xDerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML+HTTP.o
+x/Users/psunggi4man/Documents/isoTEST/yahoo/TBXML+HTTP.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/psunggi4man/Documents/isoTEST/yahoo/TBXML+HTTP.m2044ca059283b641^3f38cb069283b641^---0#0#0#-19%DVTDocumentLocation2@71"file://localhost/Users/psunggi4man/Documents/isoTEST/yahoo/TBXML+HTTP.m0000000000000000^3879"CompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML+HTTP.o TBXML+HTTP.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/psunggi4man/Documents/isoTEST/yahoo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-generated-files.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-own-target-headers.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-all-target-headers.hmap -iquote /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-project-headers.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/DerivedSources/i386 -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/DerivedSources -F/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator -include /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-dkcphjovsnhfdrclrdwsrkozkcjw/yahoo-Prefix.pch -MMD -MT dependencies -MF /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML+HTTP.d --serialize-diagnostics /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML+HTTP.dia -c /Users/psunggi4man/Documents/isoTEST/yahoo/TBXML+HTTP.m -o /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML+HTTP.o36"ABEE0F54-48CC-4DB5-BD96-8CC2ADFB34BD-
+
+CCompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML.o /Users/psunggi4man/Documents/isoTEST/yahoo/TBXML.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377721350.794349
+e377721351.044838
+r1
+xCompileC
+xDerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML.o
+x/Users/psunggi4man/Documents/isoTEST/yahoo/TBXML.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/psunggi4man/Documents/isoTEST/yahoo/TBXML.m1f85cb069283b641^357c0b079283b641^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/Users/psunggi4man/Documents/isoTEST/yahoo/TBXML.m0000000000000000^3849"CompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML.o TBXML.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/psunggi4man/Documents/isoTEST/yahoo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-generated-files.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-own-target-headers.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-all-target-headers.hmap -iquote /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-project-headers.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/DerivedSources/i386 -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/DerivedSources -F/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator -include /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-dkcphjovsnhfdrclrdwsrkozkcjw/yahoo-Prefix.pch -MMD -MT dependencies -MF /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML.d --serialize-diagnostics /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML.dia -c /Users/psunggi4man/Documents/isoTEST/yahoo/TBXML.m -o /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/TBXML.o36"7A334069-9611-4F57-8C67-7EB6992F6398-
+
+CCompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/ViewController.o /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377721350.792711
+e377721351.056948
+r1
+xCompileC
+xDerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/ViewController.o
+x/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/ViewController.m:11:
+o/Users/psunggi4man/Documents/isoTEST/yahoo/Reachability.h:69:58: warning: declaration of 'struct sockaddr_in' will not be visible outside of this function [-Wvisibility]
+o+ (Reachability*) reachabilityWithAddress: (const struct sockaddr_in*) hostAddress;
+o                                                         ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/ViewController.mf41acb069283b641^0b960e079283b641^-426"In file included from /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/ViewController.m:11:/Users/psunggi4man/Documents/isoTEST/yahoo/Reachability.h:69:58: warning: declaration of 'struct sockaddr_in' will not be visible outside of this function [-Wvisibility]+ (Reachability*) reachabilityWithAddress: (const struct sockaddr_in*) hostAddress;                                                         ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@80"Declaration of 'struct sockaddr_in' will not be visible outside of this function-377721351#18446744073709551615#0#1(2@91"In file included from /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/ViewController.m:11:-377721351#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@81"file://localhost/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/ViewController.m0000000000000000^10#8#10#8#193#0#30"Apple LLVM compiler 4.1 Notice--1#27"com.apple.dt.IDE.diagnostic3@73"file://localhost/Users/psunggi4man/Documents/isoTEST/yahoo/Reachability.h0000000000000000^68#57#68#57#3163#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@81"file://localhost/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/ViewController.m0000000000000000^3915"CompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/ViewController.o yahoo/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/psunggi4man/Documents/isoTEST/yahoo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-generated-files.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-own-target-headers.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-all-target-headers.hmap -iquote /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-project-headers.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/DerivedSources/i386 -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/DerivedSources -F/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator -include /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-dkcphjovsnhfdrclrdwsrkozkcjw/yahoo-Prefix.pch -MMD -MT dependencies -MF /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/ViewController.dia -c /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/ViewController.m -o /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/ViewController.o36"9F4BBC74-78F5-49AE-9FFB-66470F2FDD9D-
+
+CCompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/main.o /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377721349.789242
+e377721350.791362
+r1
+xCompileC
+xDerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/main.o
+x/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/main.me944ca059283b641^c2a6ca069283b641^---0#0#0#-19%DVTDocumentLocation2@71"file://localhost/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/main.m0000000000000000^3855"CompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/main.o yahoo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/psunggi4man/Documents/isoTEST/yahoo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-generated-files.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-own-target-headers.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-all-target-headers.hmap -iquote /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-project-headers.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/DerivedSources/i386 -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/DerivedSources -F/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator -include /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-dkcphjovsnhfdrclrdwsrkozkcjw/yahoo-Prefix.pch -MMD -MT dependencies -MF /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/main.dia -c /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/main.m -o /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/main.o36"26C7CD60-310A-4DC9-A667-22D7976676A2-
+
+CCompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/mySQLite.o /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/mySQLite.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377721350.799461
+e377721350.983674
+r1
+xCompileC
+xDerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/mySQLite.o
+x/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/mySQLite.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/mySQLite.m12d8cc069283b641^74d2fb069283b641^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/mySQLite.m0000000000000000^3879"CompileC DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/mySQLite.o yahoo/mySQLite.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/psunggi4man/Documents/isoTEST/yahoo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-generated-files.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-own-target-headers.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-all-target-headers.hmap -iquote /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-project-headers.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/DerivedSources/i386 -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/DerivedSources -F/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator -include /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-dkcphjovsnhfdrclrdwsrkozkcjw/yahoo-Prefix.pch -MMD -MT dependencies -MF /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/mySQLite.d --serialize-diagnostics /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/mySQLite.dia -c /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/mySQLite.m -o /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/mySQLite.o36"C45C0A76-F957-498D-8B63-E8B5A8354D73-
+
+CCompileXIB /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/en.lproj/ViewController.xib
+s377721352.242502
+e377721352.464113
+r1
+xCompileXIB
+x/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/en.lproj/ViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compiling /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/en.lproj/ViewController.xibcb2c3e089283b641^8f3878089283b641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/en.lproj/ViewController.xib0000000000000000^947"CompileXIB yahoo/en.lproj/ViewController.xib    cd /Users/psunggi4man/Documents/isoTEST/yahoo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/en.lproj/ViewController.nib /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/en.lproj/ViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"1208AAD5-4621-4EFD-BDAA-9FEEB4FC73BF-
+
+CCopyStringsFile /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/en.lproj/InfoPlist.strings yahoo/en.lproj/InfoPlist.strings
+s377721352.224622
+e377721352.237724
+r1
+xCopyStringsFile
+x/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/en.lproj/InfoPlist.strings
+xyahoo/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy yahoo/en.lproj/InfoPlist.stringse19839089283b641^8cdb3c089283b641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/en.lproj/InfoPlist.strings0000000000000000^629"CopyStringsFile DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/en.lproj/InfoPlist.strings yahoo/en.lproj/InfoPlist.strings    cd /Users/psunggi4man/Documents/isoTEST/yahoo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/en.lproj -- yahoo/en.lproj/InfoPlist.strings36"36D55922-408C-43B2-B826-A83FE54E5B9F-
+
+CCpResource yahoo/Default-568h@2x.png DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Default-568h@2x.png
+s377721352.238509
+e377721352.241303
+r1
+xCpResource
+xyahoo/Default-568h@2x.png
+xDerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Default-568h@2x.png04213d089283b641^8fc63d089283b641^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Default-568h@2x.png000000000080d041^662"CpResource "yahoo/Default-568h@2x.png" "DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Default-568h@2x.png"    cd /Users/psunggi4man/Documents/isoTEST/yahoo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/Default-568h@2x.png" /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app36"1B2707B5-943E-4210-9135-26E3F00DA25E-
+
+CCpResource yahoo/Default.png DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Default.png
+s377721352.224707
+e377721352.237185
+r1
+xCpResource
+xyahoo/Default.png
+xDerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Default.pngaf9839089283b641^9db83c089283b641^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Default.png000000000080d041^632"CpResource yahoo/Default.png DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Default.png    cd /Users/psunggi4man/Documents/isoTEST/yahoo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/Default.png /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app36"FC37E11B-8CDB-41E5-9F2D-DD9C7B242D4F-
+
+CCpResource yahoo/Default@2x.png DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Default@2x.png
+s377721352.238505
+e377721352.242236
+r1
+xCpResource
+xyahoo/Default@2x.png
+xDerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Default@2x.png0c233d089283b641^5c043e089283b641^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Default@2x.png000000000080d041^647"CpResource "yahoo/Default@2x.png" "DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Default@2x.png"    cd /Users/psunggi4man/Documents/isoTEST/yahoo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/Default@2x.png" /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app36"75143B7C-E5FE-4E84-8C8F-541EF440103B-
+
+CCpResource yahoo/db.sqlite DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/db.sqlite
+s377721352.242507
+e377721352.252234
+r1
+xCpResource
+xyahoo/db.sqlite
+xDerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/db.sqlite
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/db.sqlite56283e089283b641^f2b040089283b641^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/db.sqlite000000000080d041^626"CpResource yahoo/db.sqlite DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/db.sqlite    cd /Users/psunggi4man/Documents/isoTEST/yahoo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/db.sqlite /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app36"56F26097-F392-4196-B1D2-0AE82ED2FC05-
+
+CGenerateDSYMFile /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app.dSYM /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/yahoo
+s377721352.139295
+e377721352.216359
+r1
+xGenerateDSYMFile
+x/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app.dSYM
+x/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/yahoo
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Generating /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app.dSYM95d223089283b641^806337089283b641^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app.dSYM000000000080d041^733"GenerateDSYMFile DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app.dSYM DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/yahoo    cd /Users/psunggi4man/Documents/isoTEST/yahoo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/yahoo -o /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app.dSYM36"CE32B9B4-2A78-42E5-BC7C-3597C8C19DB8-
+
+CLd /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/yahoo normal i386
+s377721351.063398
+e377721352.131906
+r1
+xLd
+x/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/yahoo
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Link /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/yahood55a10079283b641^4cc621089283b641^---0#0#0#--1362"Ld DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/yahoo normal i386    cd /Users/psunggi4man/Documents/isoTEST/yahoo    setenv IPHONEOS_DEPLOYMENT_TARGET 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator -F/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator -filelist /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/Objects-normal/i386/yahoo.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.1 -lsqlite3 -framework CoreLocation -framework SystemConfiguration -lz -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/yahoo36"5C1C12D7-A5A7-4A6C-A52D-C2B67D92E8F4-
+
+CProcessInfoPlistFile /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Info.plist yahoo/yahoo-Info.plist
+s377721347.499808
+e377721347.675470
+r1
+xProcessInfoPlistFile
+x/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Info.plist
+xyahoo/yahoo-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"Process yahoo/yahoo-Info.plistd50980039283b641^a6b5c9039283b641^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/yahoo-Info.plist0000000000000000^729"ProcessInfoPlistFile DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Info.plist yahoo/yahoo-Info.plist    cd /Users/psunggi4man/Documents/isoTEST/yahoo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility yahoo/yahoo-Info.plist -genpkginfo /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app/Info.plist36"B9E3E204-9D1A-43A3-ABC8-1FBB12A4AB1F-
+
+CProcessPCH /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-awcugziwggxvfbhjkglchhomnikr/yahoo-Prefix.pch.pth yahoo/yahoo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377721347.683780
+e377721350.144453
+r1
+xProcessPCH
+x/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-awcugziwggxvfbhjkglchhomnikr/yahoo-Prefix.pch.pth
+xyahoo/yahoo-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile yahoo/yahoo-Prefix.pcha438af039283b641^98fb24069283b641^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/yahoo-Prefix.pch0000000000000000^3762"ProcessPCH DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-awcugziwggxvfbhjkglchhomnikr/yahoo-Prefix.pch.pth yahoo/yahoo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/psunggi4man/Documents/isoTEST/yahoo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-generated-files.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-own-target-headers.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-all-target-headers.hmap -iquote /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-project-headers.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/DerivedSources/i386 -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/DerivedSources -F/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator -fno-objc-arc --serialize-diagnostics /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-awcugziwggxvfbhjkglchhomnikr/yahoo-Prefix.pch.dia -c /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/yahoo-Prefix.pch -o /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-awcugziwggxvfbhjkglchhomnikr/yahoo-Prefix.pch.pth -MMD -MT dependencies -MF /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-awcugziwggxvfbhjkglchhomnikr/yahoo-Prefix.pch.d36"0E18D688-2DA2-4CCC-9C5D-96DFF71FE15D-
+
+CProcessPCH /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-dkcphjovsnhfdrclrdwsrkozkcjw/yahoo-Prefix.pch.pth yahoo/yahoo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377721347.683775
+e377721349.782124
+r1
+xProcessPCH
+x/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-dkcphjovsnhfdrclrdwsrkozkcjw/yahoo-Prefix.pch.pth
+xyahoo/yahoo-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile yahoo/yahoo-Prefix.pche92caf039283b641^3739c8059283b641^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/yahoo-Prefix.pch0000000000000000^3748"ProcessPCH DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-dkcphjovsnhfdrclrdwsrkozkcjw/yahoo-Prefix.pch.pth yahoo/yahoo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/psunggi4man/Documents/isoTEST/yahoo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-generated-files.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-own-target-headers.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-all-target-headers.hmap -iquote /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/yahoo-project-headers.hmap -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/DerivedSources/i386 -I/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/yahoo.build/Debug-iphonesimulator/yahoo.build/DerivedSources -F/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-dkcphjovsnhfdrclrdwsrkozkcjw/yahoo-Prefix.pch.dia -c /Users/psunggi4man/Documents/isoTEST/yahoo/yahoo/yahoo-Prefix.pch -o /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-dkcphjovsnhfdrclrdwsrkozkcjw/yahoo-Prefix.pch.pth -MMD -MT dependencies -MF /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Intermediates/PrecompiledHeaders/yahoo-Prefix-dkcphjovsnhfdrclrdwsrkozkcjw/yahoo-Prefix.pch.d36"6A157ECD-E115-43C8-8D5E-B9336026A537-
+
+CProcessPCH /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Index/PrecompiledHeaders/yahoo-Prefix-efhshiqazvnwtsgwycxtspchzwkq_ast/yahoo-Prefix.pch.pth yahoo/yahoo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Index/PrecompiledHeaders/yahoo-Prefix-fffihwjgjfhibkhegargsqpapnqi_ast/yahoo-Prefix.pch.pth yahoo/yahoo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app
+s377721352.476967
+e377721352.557194
+r1
+xTouch
+x/Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Touch /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.appe42e7a089283b641^33a48e089283b641^---0#0#0#--446"Touch DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app    cd /Users/psunggi4man/Documents/isoTEST/yahoo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/psunggi4man/Documents/isoTEST/yahoo/DerivedData/yahoo/Build/Products/Debug-iphonesimulator/yahoo.app36"EBDFE5A0-76A2-401E-B7A8-BE3A8AC4A00E-
+
